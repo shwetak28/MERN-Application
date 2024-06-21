@@ -69,6 +69,7 @@ This sample MERN stack application demonstrates the following key features:
 - User-friendly interface with responsive design using Bootstrap.
 - Robust front-end and back-end integration using Axios and React Router.
 - Secure data management and user authentication.
+
 By following the steps and techniques outlined in this project, you can gain a solid understanding of building full-stack applications using the MERN stack. This application serves as a foundation for creating more complex and feature-rich web applications in the future.
 
 Thank you for exploring this sample MERN stack application! If you have any questions or suggestions, feel free to open an issue or submit a pull request.
