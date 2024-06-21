@@ -4,7 +4,14 @@ Sample MERN Stack Application
 
 Welcome to the Sample MERN Stack Application! This project demonstrates a comprehensive implementation of a full-stack web application using the MERN stack, which includes MongoDB, Express, React, and Node.js. Additionally, the project incorporates Sequel for backend management in some areas and EJS templates for certain front-end views. The application showcases the creation, reading, updating, and deletion (CRUD) operations, with a focus on real-time error handling and a user-friendly interface.
 
-Table of Contents                                                                                                                                          1. Introduction                                                                                                                                              2. Tecnologies Used                                                                                                                                          3. Application Creation Process                                                                                                                              4. Setting up the Database and Server                                                                                                                        5. Front End Development                                                                                                                                     6. Front End and Back End Connection                                                                                                                         7. Recap and Conclusion  
+Table of Contents                                                                                                                                          
+1. Introduction
+2. Tecnologies Used
+3. Application Creation Process
+4. Setting up the Database and Server
+5. Front End Development
+6. Front End and Back End Connection
+7. Recap and Conclusion  
 
 Introduction - 
 This project is a sample application built using the MERN stack, designed to demonstrate the implementation of CRUD operations in a full-stack environment. The application leverages MongoDB for the database, Express for the server framework, React for the front end, and Node.js for server-side logic. Additionally, Mongoose is used for MongoDB object modeling, and EJS templates are employed for certain server-side rendered views.
