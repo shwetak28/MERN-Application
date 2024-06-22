@@ -42,7 +42,9 @@ Using Mongoose for MongoDB:
 First install MongoDB community edition to your program files
 Second Extra MongoDB shell to your C:// drive
 Now set environment variable for both –
+
 ![image-1](https://github.com/shwetak28/MERN-Application/assets/139232353/5db516dc-52b0-4b96-a535-96af929a9dd7)
+
 Mongoose is utilized to define the schema and model for the database.
 Models and schemas are created to manage data efficiently.
 
@@ -50,10 +52,12 @@ Configuring the Server:
 The server is set up using Node.js and Express.
 Error management and response handling are implemented to ensure robust server operation.
 And now restart your pc and go to cmd and type : mongosh
+
 ![image-2-768x370](https://github.com/shwetak28/MERN-Application/assets/139232353/70f4de2f-579c-47ef-aaa8-9ce21af86538)
 
 2.Front End Development -
 First go to the folder – mern/frontend and type : npm start
+
 ![image 3](https://github.com/shwetak28/MERN-Application/assets/139232353/c5bd0496-2e31-45a9-a534-ad1d89cf5deb)
 
 Using the Bootstrap CSS Framework:
