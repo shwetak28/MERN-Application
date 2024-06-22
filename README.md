@@ -4,6 +4,8 @@ Sample MERN Stack Application
 
 Welcome to the Sample MERN Stack Application! This project demonstrates a comprehensive implementation of a full-stack web application using the MERN stack, which includes MongoDB, Express, React, and Node.js. Additionally, the project incorporates Sequel for backend management in some areas and EJS templates for certain front-end views. The application showcases the creation, reading, updating, and deletion (CRUD) operations, with a focus on real-time error handling and a user-friendly interface.
 
+![download](https://github.com/shwetak28/MERN-Application/assets/139232353/ebe4b84a-020c-4f15-8506-7966bb51a34e)
+
 Table of Contents                                                                                                                                          
 1. Introduction
 2. Tecnologies Used
